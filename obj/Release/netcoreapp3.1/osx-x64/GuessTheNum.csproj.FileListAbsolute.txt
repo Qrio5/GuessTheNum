@@ -1,0 +1,13 @@
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum.deps.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum.runtimeconfig.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum.runtimeconfig.dev.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum.dll
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\osx-x64\GuessTheNum.pdb
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.AssemblyInfoInputs.cache
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.AssemblyInfo.cs
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.csproj.CoreCompileInputs.cache
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.dll
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.pdb
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Release\netcoreapp3.1\osx-x64\GuessTheNum.genruntimeconfig.cache

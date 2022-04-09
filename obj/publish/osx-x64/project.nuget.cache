@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWzfuT/hYZq5t4YlY4JC1GmuJSpFYtKR+562rKCn0v8aUOj8gNHQvbL6KtHFMFT6lHt2jYwnBLrCrZGUOWnc4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Qrios\\source\\repos\\GuessTheNum\\GuessTheNum\\GuessTheNum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Qrios\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.19\\microsoft.netcore.app.host.osx-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

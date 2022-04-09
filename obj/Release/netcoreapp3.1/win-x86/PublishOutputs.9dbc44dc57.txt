@@ -1,0 +1,5 @@
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\publish\GuessTheNum.exe
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\publish\GuessTheNum.dll
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\publish\GuessTheNum.deps.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\publish\GuessTheNum.runtimeconfig.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Release\netcoreapp3.1\publish\GuessTheNum.pdb

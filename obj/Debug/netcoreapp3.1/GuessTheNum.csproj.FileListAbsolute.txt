@@ -1,0 +1,14 @@
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.exe
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.deps.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.runtimeconfig.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.runtimeconfig.dev.json
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.dll
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\bin\Debug\netcoreapp3.1\GuessTheNum.pdb
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.csproj.AssemblyReference.cache
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.AssemblyInfoInputs.cache
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.AssemblyInfo.cs
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.csproj.CoreCompileInputs.cache
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.dll
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.pdb
+C:\Users\Qrios\source\repos\GuessTheNum\GuessTheNum\obj\Debug\netcoreapp3.1\GuessTheNum.genruntimeconfig.cache
